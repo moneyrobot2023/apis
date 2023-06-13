@@ -23,3 +23,4 @@ _
 <p align="center">
   <img src="https://skr.sh/i/130623/9U0BpcFt.jpg?download=1&name=Скриншот%2013-06-2023%2013:00:36.jpg">
   </p>
+  # наша группа в TELEGRAM - https://t.me/softwarenulled
